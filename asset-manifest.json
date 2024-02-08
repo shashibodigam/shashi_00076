@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shashi_00076/static/css/main.8ec74877.css",
+    "main.js": "/shashi_00076/static/js/main.060b4f83.js",
+    "static/js/592.20af27a3.chunk.js": "/shashi_00076/static/js/592.20af27a3.chunk.js",
+    "static/media/shashi.jpg": "/shashi_00076/static/media/shashi.c60484c4aaadac701e2c.jpg",
+    "index.html": "/shashi_00076/index.html",
+    "main.8ec74877.css.map": "/shashi_00076/static/css/main.8ec74877.css.map",
+    "main.060b4f83.js.map": "/shashi_00076/static/js/main.060b4f83.js.map",
+    "592.20af27a3.chunk.js.map": "/shashi_00076/static/js/592.20af27a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ec74877.css",
+    "static/js/main.060b4f83.js"
+  ]
+}
